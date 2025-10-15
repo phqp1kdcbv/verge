@@ -182,3 +182,5 @@ Example usage:
 
     cd .../src
     ../contrib/devtools/circular-dependencies.py {*,*/*,*/*/*}.{h,cpp}
+
+<!-- Auto-update: 2025-10-15T15:10:34.010553 -->
